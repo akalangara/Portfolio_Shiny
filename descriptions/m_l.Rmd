@@ -1,0 +1,31 @@
+---
+output: 
+  html_fragment
+fontsize: 12pt
+---
+<!-- 2 columns -->
+<div class="col22">
+
+# Project Description
+As my final project for my INFO 534 (Applied Machine Learning) class, I utilized a publicly available dataset to build a multinomial logistic regression model that can be used to characterize liver disease progression in patients. The dataset, taken from blood donors and liver disease patients at Hannover Medical School, comprises of blood panel measures as well as patient characteristics such as biological sex and age. While liver biopsy is the gold standard for liver disease diagnosis, models utilizing blood work offer a less invasive method of diagnosis. That being said, the built model has limited utility, but the project allowed me to go through the process of model regularization, cross validation, and model selection.
+
+***
+
+# Skills & Methods Utilized
+* R scripting
+* git
+* Multinomial Logistic Regression
+* Reproducibility with renv
+
+***
+<div align='left'>
+  <p>Project GitHub<br>
+  <a href="https://github.com/akalangara/LiverDiseaseML"> 
+    <i class="fa fa-github" style='font-size:20px; margin: 0px 5px'></i>
+  </a>
+</div>
+
+<div align='center'>
+<iframe src="https://onedrive.live.com/embed?cid=1A82737001D02753&resid=1A82737001D02753%214373&authkey=AKeatJ9LqVRZZx8&em=2" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+</div>
+</div>

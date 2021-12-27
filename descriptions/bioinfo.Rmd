@@ -1,0 +1,35 @@
+---
+output: 
+  html_fragment
+fontsize: 12pt
+---
+<!-- 2 columns -->
+<div class="col22">
+
+# Project Description
+As part of the final project for my BIOS 555 (High-Throughput Data Analysis using R and BioConductor) class, I analyzed the HA DNA coding regions of influenza A taken from 3 countries of various climates. As influenza has different seasons in temperate and tropical regions, the purpose of the study was to determine if there were any positions that could be used to distinguish between temperate and tropical sequences. These positions could consequently contribute to the difference in seasonality between regions.
+
+As part of the final project for my INFO 550 (Data Science Toolkit) class, this entire workflow was made reproducible through containerization using Docker. Starting with raw DNA sequences downloaded from the NCBI influenza flu database, the workflow creates a fasta file of all sequences, creates a reference sequence, aligns the sequences, creates a BAM file, generates a sequence logo plot, conducts PCA analysis, and generates a report that summarizes the findings.
+
+***
+
+# Skills & Methods Utilized
+* R and Bash Scripting
+* GNU Make
+* git
+* Bioconductor
+* PCA analysis
+* Docker Containerization
+
+***
+<div align='left'>
+  <p>Project GitHub<br>
+  <a href="https://github.com/akalangara/INFO550_Project"> 
+    <i class="fa fa-github" style='font-size:20px; margin: 0px 5px'></i>
+  </a>
+</div>
+
+<div align='center'>
+<iframe src="https://onedrive.live.com/embed?cid=1A82737001D02753&resid=1A82737001D02753%214371&authkey=AORwKINsiPsBVMU&em=2" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+</div>
+</div>

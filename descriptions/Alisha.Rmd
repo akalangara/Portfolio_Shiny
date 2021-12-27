@@ -1,0 +1,47 @@
+---
+output: 
+  html_fragment
+fontsize: 12pt
+---
+
+# Alisha Kalangara
+
+<!-- Duas colunas -->
+<div class="col2">
+<img class="foto" src="img/Kalangara.jpg"/>  
+
+<div class="descricao">
+<br></br>  
+<br></br>
+
+### Description
+
+Hello! I’m a 2nd year Masters student at the Rollins School of Public Health studying to obtain a Masters of Public Health in Epidemiology. Previously, at the University of Texas at Austin, I obtained a Bachelors of Science in Biology with a concentration in Microbiology and Infectious Diseases, and a certificate in Scientific Computation. While I have previous experience in genomic engineering, neuroimmunology, and statistical genetics research, I am currently looking to delve into public health practice.
+
+In general, I enjoy analyzing and presenting data so that it can be used to make meaningful decisions. I like working on problems that require a multidisciplinary approach, and draw from my variegated skillset. Lastly, I readily welcome opportunities to learn new skills and new subject matter.
+
+***
+
+### Interests
+
+* Emerging Zoonotic Diseases
+* Viral Evolution
+* One Health
+* Data Visualization
+* Bioinformatics
+* Disease Dynamics
+
+***
+
+</div>
+
+<div align='right'>
+  <!-- <a href="https://www.linkedin.com/">  -->
+  <!--   <i class="fa fa-linkedin" style='font-size:20px; margin: 0px 5px'></i> -->
+  <!-- </a> -->
+  <a href="https://github.com/akalangara"> 
+    <i class="fa fa-github" style='font-size:20px; margin: 0px 5px'></i>
+  </a>
+</div>
+
+</div>

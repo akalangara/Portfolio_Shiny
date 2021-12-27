@@ -1,0 +1,11 @@
+name: Portfolio
+title: Portfolio
+username:
+account: akalang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5370222
+bundleId: 5410709
+url: https://akalang.shinyapps.io/Portfolio/
+when: 1640563489.83386
+lastSyncTime: 1640563489.83386

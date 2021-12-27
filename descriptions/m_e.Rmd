@@ -1,0 +1,30 @@
+---
+output: 
+  html_fragment
+fontsize: 12pt
+---
+
+# Project Description
+Over the summer of 2021, I was able to intern at the CDC One Health Office as part of the Monitoring and Evaluation team. The team focused on developing methods to improve monitoring and evaluation of the One Health Zoonotic Disease Prioritization (OHZDP) Workshops being utilized in countries around the world. 
+
+This involved developing interview guides, baseline assessments, indicator banks, worksheets to facilitate the development of specific and measurable goals, and an app to present the developed toolkit. This work cannot be shared, but a demo of the app is linked below.
+
+***
+
+# Skills & Methods Utilized
+
+* Conceptualizing M & E Framework
+* Pilot Testing Developed Tools
+* R scripting & R Shiny
+<div align='right'>
+  <p>Project GitHub</p>
+  <a href="https://github.com/akalangara"> 
+    <i class="fa fa-github" style='font-size:20px; margin: 0px 5px'></i>
+  </a>
+</div>
+
+***
+
+# Deliverable
+
+
