@@ -1,8 +1,0 @@
-# ignore rhistory file
-.Rhistory
-
-# ignore 
-.Rproj.user/
-
-# ignore rsconnect folder
-rsconnect
