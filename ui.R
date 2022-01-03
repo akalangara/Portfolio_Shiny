@@ -30,6 +30,7 @@ shinyUI(
                      spatial,
                      m_e,
                      bioinfo,
+                     longi,
                      about_me
           )
      )

@@ -9,6 +9,8 @@ shinyServer(function(input, output, session){
      source("tabs/server/m_e.R", local = TRUE)
      ##-- BIOINFORMATICS PROJECT ----
      source("tabs/server/bioinfo.R", local = TRUE)
+     ##-- THESIS PROJECT ----
+     source("tabs/server/longi.R", local = TRUE)
      ##-- ABOUT ME ----
      source("tabs/server/about_me.R", local = TRUE)
 })

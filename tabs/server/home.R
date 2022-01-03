@@ -17,3 +17,6 @@ observeEvent(input$m_e,{
 observeEvent(input$m_l,{
      updateTabsetPanel(session = session, inputId = "navbar", selected = "m_l")
 })
+observeEvent(input$longi,{
+        updateTabsetPanel(session = session, inputId = "navbar", selected = "longi")
+})

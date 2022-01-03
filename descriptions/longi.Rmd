@@ -1,0 +1,47 @@
+---
+output: 
+  html_fragment
+fontsize: 12pt
+---
+
+<!-- Duas colunas -->
+<div class="col2">
+<img class="foto" src="img/post.png"/>  
+
+<div class="descricao">
+<br></br>  
+<br></br>
+
+### Project Description
+
+For my masters thesis I will be analyzing publicly available data from the [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#datatracker-home) and [GISAID Data](https://covid19dashboard.regeneron.com/?tab=Variant_Graphs&subTab=Top_Variants_Over_Time_(Select_Location)). Utilizing this data, I aim to assess whether SARS-CoV-2 variant proportion data from state level surveillance can detect changes in COVID-19 case rates during a period of rising Delta variant prevalence (June 2021-December 2021), while accounting for state vaccination rates, seroprevalence, and age distribution. If effective, this could potentially be used as an indicator for surges in COVID-19 cases.
+
+This is an ongoing project but the linked github repository has the most up to date information.
+
+***
+
+### Skills & Methods Utilized
+
+* Literature Review
+* Working with multiple datasets
+* git
+* GNU Make (planned)
+* renv (planned)
+* Docker (planned)
+* Generalized Estimating Equations with Autoregressive Correlation Structure (planned)
+
+***
+
+</div>
+
+<div align='right'>
+  <!-- <a href="https://www.linkedin.com/">  -->
+  <!--   <i class="fa fa-linkedin" style='font-size:20px; margin: 0px 5px'></i> -->
+  <!-- </a> -->
+  <p>Project GitHub<br>
+  <a href="https://github.com/akalangara/EarlyWarningCovid"> 
+    <i class="fa fa-github" style='font-size:20px; margin: 0px 5px'></i>
+  </a>
+</div>
+
+</div>
