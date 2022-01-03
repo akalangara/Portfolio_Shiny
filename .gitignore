@@ -1,0 +1,5 @@
+# ignore .R
+*.R*
+
+# ignore rsconnect folder
+rsconnect/
